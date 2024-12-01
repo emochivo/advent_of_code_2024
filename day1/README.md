@@ -1,5 +1,4 @@
-ADVENT OF CODE DAY 1: Historian Hysteria
-Link: https://adventofcode.com/2024/day/1
+ADVENT OF CODE DAY 1: Historian Hysteria (Link: https://adventofcode.com/2024/day/1)
 
 There are two main problems:
 
